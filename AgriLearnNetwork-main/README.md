@@ -10,8 +10,8 @@
       <th>Event Description</th>
    </tr>
    <tr>
-      <td>GirlScript Summer of Code 2024</td>
-      <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
+      <td>studentScript Summer of Code 2024</td>
+      <td>StudentScript Summer of Code is a three-month-long Open Source Program conducted every summer by StudentScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
 
 </table>
